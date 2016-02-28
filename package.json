@@ -1,19 +1,22 @@
 {
-  "name": "timeoutSemaphore",
+  "name": "timeout-semaphore",
   "version": "0.0.1",
   "description": "Semaphore implementation with timeout auto leave() feature",
   "main": "./lib/timeoutSemaphore.js",
   "dependencies": {
-	  "debug": "latest",
+    "debug": "^2.2.0"
   },
   "keywords": [
     "semaphore",
     "timeout"
   ],
   "files": [
-    "lib/",
-	],
-  "repository": { "type": "git", "url": "https://github.com/oeuillot/nopde-timeoutSemaphore.git" },
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oeuillot/node-timeoutSemaphore.git"
+  },
   "author": "Olivier Oeuillot",
   "license": "GPL",
   "readmeFilename": "README.md"
