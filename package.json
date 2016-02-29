@@ -1,6 +1,6 @@
 {
   "name": "timeout-semaphore",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Semaphore implementation with timeout auto leave() feature",
   "main": "./lib/timeoutSemaphore.js",
   "dependencies": {
